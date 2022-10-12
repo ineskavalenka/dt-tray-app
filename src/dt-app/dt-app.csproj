@@ -22,6 +22,13 @@
     <ErrorReport>prompt</ErrorReport>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <ProjectGuid>{577B53E6-8457-4859-BF05-F3D91CFF44BA}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />

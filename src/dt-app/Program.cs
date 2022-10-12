@@ -4,15 +4,20 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Globalization;
 using System.IO;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
 namespace dt
 {
     public class DtTrayApp : Form
     {
+        [DllImport("kernel32.dll", SetLastError = true, ExactSpelling = true)]
+        static extern bool FreeConsole();
+        
         [STAThread]
         public static void Main()
         {
+            FreeConsole();
             Application.Run(new DtTrayApp());
         }
 
