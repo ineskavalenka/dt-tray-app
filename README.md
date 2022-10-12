@@ -2,28 +2,29 @@
 
 tray icon - click 
 
-![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/220219235205.png)  
+![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/tray-icon-click.png)  
 
 timeformats menu
 
-![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/220219235948.png)  
+![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/timeformats-context-menu.png)  
 
 shell startup
 
-![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/220220121816.png)  
+![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/shell-startup.png)  
 
 usage gif
 
-![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/220211152332.gif)  
+![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/usage.gif)  
 
 timeformats setting - open with notepad
 
-![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/220220000330.png)  
+![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/open-with-notepad.png)  
 
 timeformats setting
 
-![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/220219235912.png)  
+![](https://github.com/ineskavalenka/dt-tray-app/blob/main/img/editing-timeformats.png)  
 
 program binary
 
-  - [ ] todo
+![](https://github.com/ineskavalenka/dt-tray-app/blob/main/build/dt-app.zip)  
+
